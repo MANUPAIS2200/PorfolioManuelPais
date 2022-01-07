@@ -48,17 +48,17 @@ file description: About page that describe my background.
             <!-- second row -->
             <div class="row">
                 <div class="col-lg-4 col-md-4 col-sm-6 text-center">
-                    <img class="img-center" src="Assets/images/sqlPortada.png" height="200" alt="Application Security">
+                    <img class="img-center" src="Assets/images/secure.png" height="200" alt="Application Security">
                     <h3>Base de Datos<br/><small>SQL y MYSQL</small></h3>
                     <p>Manejo de bases de datos utilizan el lenguaje de consulta estructurada (SQL) para escribir, modificar y consultar datos.</p>
                 </div>
                 <div class="col-lg-4 col-md-4 col-sm-6 text-center">
-                    <img class="img-center" src="Assets/images/matematica.png" height="200" alt="Enterprise Application">
+                    <img class="img-center" src="Assets/images/mean.png" height="200" alt="Enterprise Application">
                     <h3>Procesamientos Logicos Matematicos<br/><small></small></h3>
                     <p>Cuento con estudios dedicados al Profesorado de matemática y matemática aplicada especializado en diciplinas industriales.</p>
                 </div>
                 <div class="col-lg-4 col-md-4 col-sm-6 text-center">
-                    <img class="img-center" src="Assets/images/Photoshop.png" height="200" alt="Contents Management System">
+                    <img class="img-center" src="Assets/images/java-project.png" height="200" alt="Contents Management System">
                     <h3>Editor de Imagenes<br/><small>Photoshop</small></h3>
                     <p>Conocimentos basicos de modificacion de imagenes principalmente para el retoque de fotografías y gráficos.</p>
                 </div>

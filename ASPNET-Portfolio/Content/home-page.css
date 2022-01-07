@@ -46,7 +46,7 @@ body{
 }
 
 .full {
-    background: url(../Assets/images/imagendefaut.png) no-repeat center center fixed;
+    background: url(../Assets/images/buildings.jpeg) no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
