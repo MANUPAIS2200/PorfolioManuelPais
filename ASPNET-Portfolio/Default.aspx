@@ -12,8 +12,8 @@ file description: Default page
                     <br/>
                 </p>
                 <h4>
-                    Hola, es un placer conocerte
-                    <br/>Mi nombre es Manuel Pais <br/>Soy un estudiante de programación <br/>bienvenidx a mi Porfolio Web.
+                    Hola, es un placer conocerte.
+                    <br/>Mi nombre es Manuel Pais. <br/> Soy un estudiante de programación, <br/>bienvenidx a mi Porfolio Web.
                 </h4>
                 <br/>
                 <a href="About.aspx" class="btn btn-dark btn-lg">Sobre Mi</a>
