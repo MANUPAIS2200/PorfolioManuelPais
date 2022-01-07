@@ -11,7 +11,7 @@ file description: About page that describe my background.
             </div>
             <div class="row">
                 <div class="col-md-3 profile-pic">
-                    <img src="Assets/images/profile.png" alt="Foto Personal" height="250px"/>
+                    <img src="Assets/images/profile-pic-600.png" alt="Foto Personal" height="250px"/>
                 </div>
                 <div class="col-md-9">
                     <br/>
